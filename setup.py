@@ -22,7 +22,7 @@ setup(
     long_description='Various utilites related to synchronization between "tasks" (processes or threads)',
 
     # The project's main homepage.
-    url='https://bitbucket.org/portonv/task_utils',
+    url='https://github.com/vporton/task-utils',
 
     # Author details
     author='Victor Porton',
